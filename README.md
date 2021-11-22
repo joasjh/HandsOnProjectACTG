@@ -1,7 +1,7 @@
 # HandsOnProjectACTG
 
 ### 주제
-'Automated College Timetable Generator', 자동 시간표 생성기
+Automated College Timetable Generator, 'Tabler'
 
 주제 레퍼런스 : https://nevonprojects.com/automated-college-timetable-generator/
 
