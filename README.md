@@ -15,9 +15,12 @@
 |서지훈|디지털이미징|Scrum leader|
 
 ### 스프린트
-
+ 
+ 
 ### 스크럼 미팅 노트
 
+
 #### 문제 현황 분석 (Problem statements)
+
 
 #### 요구사항 수집 (Requirement gathering)
