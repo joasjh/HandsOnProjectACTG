@@ -4,12 +4,15 @@
 'Automated College Timetable Generator', 자동 시간표 생성기
 
 주제 레퍼런스 : https://nevonprojects.com/automated-college-timetable-generator/
+
+프로젝트 툴 : Andorid Studio
+
 ### 팀원
-|이름|학과|학번|역할|
+|이름|학과|역할|
 |------|---|---|----|
-|가오즈항|소프트웨어|20196837|Code Assist|
-|고일범|소프트웨어|20195843|Product owner|
-|서지훈|디지털이미징|20152354|Scrum leader|
+|가오즈항|소프트웨어|Code Assist|
+|고일범|소프트웨어|Product owner|
+|서지훈|디지털이미징|Scrum leader|
 
 ### 스프린트
 
