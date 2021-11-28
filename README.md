@@ -25,7 +25,7 @@
  
    [11/26] 작업물을 모아 관련 내용을 회의를 통해 수정 및 추가하여 취합, 프로토타입 개발 항목의 우선순위에 대해 회의 후 그에 맞게 다시 역할분담
  
-   [11/28] product backlog & Requirement 점검
+   [11/28] product backlog & Requirement 점검   <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/Product%20backlog.pdf">점검내용</a>
 
 #### 문제 현황 분석 (Problem statements)
 <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/Problem%20Statement.pdf">Problem Statement.pdf</a>
