@@ -20,11 +20,11 @@
 
 
 ## 스프린트
-  ### [11/23 ~ 11/26]
-  Sprint 1 : 프로젝트 서비스 구체화, Problem Statement & Requirement Gatering 작성, 개발 일정 산정 
+  ### Sprint 1 [11/23 ~ 11/26]
+  프로젝트 서비스 구체화, Problem Statement & Requirement Gatering 작성, 개발 일정 산정 
 
-  ### [11/27 ~ ]
-  Sprint 2 : 프로토타입 개발 & UI 설계 (11/27 ~ )
+  ### Sprint 2 [11/27 ~ ]
+  프로토타입 개발 & UI 설계 (11/27 ~ )
  
  
  
