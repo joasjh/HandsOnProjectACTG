@@ -21,6 +21,7 @@ Automated College Timetable Generator, 'Tabler'
 
 
 #### 문제 현황 분석 (Problem statements)
-
+<a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/Problem%20Statement.pdf">Problem Statement.pdf</a>
 
 #### 요구사항 수집 (Requirement gathering)
+<a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/Requirement%20Gathering.pdf">Requirement gathering.pdf</a>
