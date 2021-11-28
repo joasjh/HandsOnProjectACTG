@@ -7,6 +7,8 @@
 
  프로젝트 툴 : Andorid Studio
 
+
+
 ### 팀원
 |이름|학과|역할|
 |------|---|----|
@@ -14,10 +16,16 @@
 |고일범|소프트웨어|Product owner|
 |서지훈|디지털이미징|Scrum leader|
 
+
+
+
 ### 스프린트
   Sprint 1 : 프로젝트 서비스 구체화, Problem Statement & Requirement Gatering 작성, 개발 일정 산정 [11/23 ~ 11/26]
 
   Sprint 2 : 프로토타입 개발 & UI 설계 (11/27 ~ )
+ 
+ 
+ 
  
 ### 스크럼 미팅 노트
    [11/23] 프로젝트 초기계획 구축. 프로젝트가 제공할 서비스를 구체화하고, 기능들이 기간 내 개달 가능한지 판단하여 개발 계획 수립
@@ -27,8 +35,14 @@
  
    [11/28] product backlog & Requirement 점검   <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/Product%20backlog.pdf">점검내용</a>
 
+
+
+
 #### 문제 현황 분석 (Problem statements)
 <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/Problem%20Statement.pdf">Problem Statement.pdf</a>
+
+
+
 
 #### 요구사항 수집 (Requirement gathering)
 <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/Requirement%20Gathering.pdf">Requirement gathering.pdf</a>
