@@ -15,7 +15,9 @@ Automated College Timetable Generator, 'Tabler'
 |서지훈|디지털이미징|Scrum leader|
 
 ### 스프린트
- 
+ Sprint 1 : 프로젝트 서비스 구체화, Problem Statement & Requirement Gatering 작성, 개발 일정 산정 (11/23 ~ 11/26)
+
+ Sprint 2 : 프로젝트 서비스 구체화, Problem Statement & Requirement Gatering 작성, 개발 일정 산정 (11/27 ~ )
  
 ### 스크럼 미팅 노트
 
