@@ -20,8 +20,10 @@
 
 
 ## 스프린트
-  Sprint 1 : 프로젝트 서비스 구체화, Problem Statement & Requirement Gatering 작성, 개발 일정 산정 [11/23 ~ 11/26]
+  ### [11/23 ~ 11/26]
+  Sprint 1 : 프로젝트 서비스 구체화, Problem Statement & Requirement Gatering 작성, 개발 일정 산정 
 
+  ### [11/27 ~ ]
   Sprint 2 : 프로토타입 개발 & UI 설계 (11/27 ~ )
  
  
@@ -36,7 +38,7 @@
    작업물을 모아 관련 내용을 회의를 통해 수정 및 추가하여 취합, 프로토타입 개발 항목의 우선순위에 대해 회의 후 그에 맞게 다시 역할분담
  
    ### [11/28]
-   product backlog & Requirement 점검   <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/Product%20backlog.pdf">점검내용</a>
+   Product backlog & Requirement 점검   <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/Product%20backlog.pdf">점검내용</a>
 
 
 
