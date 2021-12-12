@@ -43,7 +43,7 @@
    ### [11/28]
    Product backlog & Requirement 점검   <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/Product%20backlog.pdf">점검내용</a>
 
-   ### [11/28]
+   ### [12/6]
    코드 협업 회의, 스크럼 마스터가 작업 분배
 
 
