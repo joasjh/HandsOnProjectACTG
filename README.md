@@ -25,6 +25,9 @@
 
   ### Sprint 2 [11/27 ~ ]
   프로토타입 개발 & UI 설계 (11/27 ~ )
+  
+  ### Sprint 3 [12/6 ~ ]
+  코드 취합 및 마무리
  
  
  
@@ -40,6 +43,8 @@
    ### [11/28]
    Product backlog & Requirement 점검   <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/Product%20backlog.pdf">점검내용</a>
 
+   ### [11/28]
+   코드 협업 회의, 스크럼 마스터가 작업 분배
 
 
 
