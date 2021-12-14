@@ -44,7 +44,7 @@
    Product backlog & Requirement 점검   <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/Product%20backlog.pdf">점검내용</a>
 
    ### [12/6]
-   코드 협업 회의, 스크럼 마스터가 작업 분배. 다른 팀원의 개발지식이 부족하여, 자습 기간 (~12/9) 후 작업을 분배해 주기로 결정.
+   코드 협업 회의, 스크럼 마스터가 작업 분배. 자습 기간 (~12/9) 후 작업을 분배해 주기로 결정.
  
    ### [12/9]
    공부한 내용과 Scope를 조사하여 적절하게 작업 분배. 데드라인은 12/12일까지
@@ -55,7 +55,7 @@
    
    ### [12/12]
    분배한 작업 내용 및 결과물 평가 : <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/Example.pdf">작업예시</a>
-   / 고일범 <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/%EB%B6%84%EB%B0%B0_%EA%B3%A0%EC%9D%BC%EB%B2%94_Part.pdf">분배작업</a>  <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/%EA%B2%B0%EA%B3%BC_%EA%B3%A0%EC%9D%BC%EB%B2%94_Part.pdf">결과평</a>  / 가오즈항 <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/%EB%B6%84%EB%B0%B0_%EA%B0%80%EC%98%A4%EC%A6%88%ED%95%AD_Part.pdf">분배작업</a> <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/%EA%B2%B0%EA%B3%BC_%EA%B0%80%EC%98%A4%EC%A6%88%ED%95%AD_Part.pdf">결과평</a>
+   / 고일범 <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/%EB%B6%84%EB%B0%B0_%EA%B3%A0%EC%9D%BC%EB%B2%94_Part.pdf">분배작업</a>  <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/%EB%B6%84%EB%B0%B0_%EA%B0%80%EC%98%A4%EC%A6%88%ED%95%AD_Part.pdf">분배작업</a> 
    
    
 ## 문제 현황 분석 (Problem statements)
