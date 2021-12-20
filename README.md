@@ -27,9 +27,10 @@
   프로토타입 개발 & UI 설계 
   
   ### Sprint 3 [12/6 ~ ]
-  코드 취합 및 마무리
- 
- 
+  중간 코드 취합
+  
+  ### Sprint 4 [12/14 ~ 12/20]
+  최종 코드 취합 및 마무리
  
  
 ## 스크럼 미팅 노트
@@ -53,9 +54,23 @@
    
    가오즈항 : 2. 등록된 일정을 탐색하여 추가할 수 있는 기능이 있는 화면 만들기 (자동완성 기능 포함)
    
+   ### [12/15]
+   최종 작업 분배. 데드라인은 12/17일까지
+   
+   고일범 : 1. 일정의 상세정보를 담은 화면 만들기 / 2. 가상의 과목 20개 리스트하여 txt파일로 전달해주기
+   
+   가오즈항 : 2. 등록된 일정을 탐색하여 추가할 수 있는 기능이 있는 화면 만들기 (자동완성 기능 포함)
+   
+   
+   
    ### [12/12]
-   분배한 작업 내용 및 결과물 평가 : <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/Example.pdf">작업예시</a>
-   / 고일범 <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/%EB%B6%84%EB%B0%B0_%EA%B3%A0%EC%9D%BC%EB%B2%94_Part.pdf">분배작업</a> / 가오즈항  <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/%EB%B6%84%EB%B0%B0_%EA%B0%80%EC%98%A4%EC%A6%88%ED%95%AD_Part.pdf">분배작업</a> 
+   [중간]분배한 작업 내용 : <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/Example.pdf">작업예시</a>
+   / 고일범 <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/%EB%B6%84%EB%B0%B0_%EA%B3%A0%EC%9D%BC%EB%B2%94_Part.pdf">분배작업</a> / 가오즈항  <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/%EB%B6%84%EB%B0%B0_%EA%B0%80%EC%98%A4%EC%A6%88%ED%95%AD_Part.pdf">분배작업</a>
+   
+   
+   ### [12/15]
+   [최종]분배한 작업 내용 : <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/Example.pdf">작업예시</a>
+   / 고일범 <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/%EC%B5%9C%EC%A2%85%EB%B6%84%EB%B0%B0_%EA%B3%A0%EC%9D%BC%EB%B2%94.pptx">분배작업</a> / 가오즈항  <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/%EC%B5%9C%EC%A2%85%EB%B6%84%EB%B0%B0_%EA%B0%80%EC%98%A4%EC%A6%88%ED%95%AD.pptx">분배작업</a>
    
    
 ## 문제 현황 분석 (Problem statements)
