@@ -69,8 +69,7 @@
    
    
    ### [12/15]
-   [최종]분배한 작업 내용 : <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/Example.pdf">작업예시</a>
-   / 고일범 <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/%EC%B5%9C%EC%A2%85%EB%B6%84%EB%B0%B0_%EA%B3%A0%EC%9D%BC%EB%B2%94.pptx">분배작업</a> / 가오즈항  <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/%EC%B5%9C%EC%A2%85%EB%B6%84%EB%B0%B0_%EA%B0%80%EC%98%A4%EC%A6%88%ED%95%AD.pptx">분배작업</a>
+   [최종]분배한 작업 내용 : 고일범 <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/%EC%B5%9C%EC%A2%85%EB%B6%84%EB%B0%B0_%EA%B3%A0%EC%9D%BC%EB%B2%94.pptx">분배작업</a> / 가오즈항  <a href="https://github.com/joasjh/HandsOnProjectACTG/blob/main/Document/ContributionCheck/%EC%B5%9C%EC%A2%85%EB%B6%84%EB%B0%B0_%EA%B0%80%EC%98%A4%EC%A6%88%ED%95%AD.pptx">분배작업</a>
    
    
 ## 문제 현황 분석 (Problem statements)
